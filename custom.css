@@ -1,0 +1,19 @@
+/* custom.css */
+/* bk1 */
+/* GitHubのカスタムデザイン */
+
+.markdown-body :not(pre)>code,
+.markdown-body :not(pre)>tt {
+    color: #b8ff8f;
+}
+
+.markdown-body table code,
+.markdown-body table tt {
+    color: #ff8888;
+}
+
+.js-snippet-clipboard-copy-unpositioned .markdown-body .snippet-clipboard-content,
+.js-snippet-clipboard-copy-unpositioned .markdown-body .highlight {
+    border: 1px solid rgba(255, 255, 255, .22);
+    border-radius: 9px;
+}
