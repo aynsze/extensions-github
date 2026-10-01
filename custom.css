@@ -12,8 +12,9 @@
     color: #ff8888;
 }
 
-.js-snippet-clipboard-copy-unpositioned .markdown-body .snippet-clipboard-content,
-.js-snippet-clipboard-copy-unpositioned .markdown-body .highlight {
+.entry-content div.notranslate,
+.readme  pre.notranslate,
+.readme  .highlight{
     border: 1px solid rgba(255, 255, 255, .22);
-    border-radius: 9px;
+    border-radius: 6px;
 }
